@@ -1,0 +1,10 @@
+@import "../../utils/scss/var";
+@import "../../utils/scss/utils";
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  font-size: 30px;
+}
